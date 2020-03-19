@@ -1,4 +1,4 @@
-require_relative 'environment'
+require_relative './environment'
 
 class SQLRunner
   def initialize(db)
